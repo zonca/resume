@@ -9,7 +9,7 @@ FONTS=fonts.latex
 all: $(PDF)
 
 $(PDF): $(MD)
-	pandoc $(MD) \
+	cat $(MD) | sed 's/ username on the UCSD domain /@/g' | pandoc \
 	  --from markdown \
 	  --template=$(TEMPLATE) \
 	  --pdf-engine=xelatex \
