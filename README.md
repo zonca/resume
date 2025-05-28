@@ -56,5 +56,5 @@ Leader in scientific computing and cosmology data analysis with deep expertise i
 - RAS Group Award, Gruber Prize, Cocconi Prize, NASA Group Award  
 
 ## Publications  
-[Most notable Planck 2015 cosmological parameters paper with 40k citations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wuR3UQ4AAAAJ&citation_for_view=wuR3UQ4AAAAJ:NaGl4SEjCO4C)
-[arXiv Collection](http://bit.ly/zoncapapers)
+- [Planck 2015 Cosmological Parameters Paper — over 40,000 citations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wuR3UQ4AAAAJ&citation_for_view=wuR3UQ4AAAAJ:NaGl4SEjCO4C)
+- [Complete publication list on arXiv](http://bit.ly/zoncapapers)
