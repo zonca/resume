@@ -1,6 +1,6 @@
 # Makefile to build resume.pdf from README.md using Pandoc and eisvogel template
 
-PDF=resume.pdf
+PDF=resume_Andrea_Zonca_$(shell date +%Y%m).pdf
 MD=README.md
 TEMPLATE=eisvogel.latex
 PASSOPTIONS=passoptions.latex
