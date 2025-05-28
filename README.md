@@ -1,7 +1,7 @@
 # Andrea Zonca  
 **Lead of Scientific Computing Applications, San Diego Supercomputer Center**  
 San Diego, CA  
-Email: zonca@ucsd.edu | Website: [zonca.dev](https://zonca.dev) | GitHub: [github.com/zonca](https://github.com/zonca)
+Email: zonca username on the UCSD domain ucsd.edu | Website: [zonca.dev](https://zonca.dev) | GitHub: [github.com/zonca](https://github.com/zonca)
 
 ## Summary  
 Leader in scientific computing and cosmology data analysis with deep expertise in Python, HPC, and distributed systems. Supporting researchers across disciplines in scaling data-intensive workflows to supercomputing infrastructure. Key contributor to major astrophysics collaborations including Planck, Simons Observatory, and CMB-S4.
